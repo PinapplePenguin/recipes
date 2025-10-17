@@ -1,0 +1,19 @@
+body {
+    background-color:  rgb(234, 231, 227);
+}
+
+.title {
+    color: red;
+}
+
+.Description {
+    color: rgb(255, 191, 0);
+}
+
+.Ingredients {
+    color: brown;
+}
+
+.Steps {
+    color: orange;
+}

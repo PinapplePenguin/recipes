@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(210, 180, 140);
+}
+
+.title {
+    color: rgb(110, 38, 14);
+}
+
+.Description {
+    color: rgb(72, 60, 50);
+}
+
+.Ingredients {
+    color: rgb(92, 64, 51);
+}
+
+.Method {
+    color: rgb(139, 69, 19);
+}
